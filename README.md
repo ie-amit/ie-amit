@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Amit Kumar
 **Backend & Cloud Engineer** @ The Indian Express | Building Scalable Systems ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amitkumarbatham)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ketan8899.41@gmail.com)
 
 ## 🔧 Technical Arsenal
 **Core Stack**
@@ -16,7 +16,7 @@
 🖥️ Reverse-engineering distributed systems | 🔐 Cloud security patterns | 🕸️ Network protocol optimization
 
 ## 🏢 Professional Journey
-**Senior Software Engineer** @ The Indian Express (2023-Present)  
+**Software Developer** @ The Indian Express (2024-Present)  
 ✅ Leading migration to microservices architecture  
 ✅ Developed high-traffic API endpoints handling 50k+ RPM  
 ✅ Implemented CI/CD pipelines using Jenkins and GitHub Actions
