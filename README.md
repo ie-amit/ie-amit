@@ -16,7 +16,14 @@
 🖥️ Reverse-engineering distributed systems | 🔐 Cloud security patterns | 🕸️ Network protocol optimization
 
 ## 🏢 Professional Journey
-**Software Developer** @ The Indian Express (2024-Present)  
+
+**FullStack and Devops Engineer** @ Republic TV (2024-2025)  
+✅ Leading the Development of Internal CMS projects for Republic TV   
+✅ Currently Developing Internal CMS for the republic School Of journalism API endpoints handling 50k+ RPM  
+✅ Implemented CI/CD pipelines using Jenkins and GitHub Actions 
+✅ Currently Working on GCP(google cloud services) for our cloud infra
+
+**Software Developer** @ The Indian Express (2024-2025)  
 ✅ Leading migration to microservices architecture  
 ✅ Developed high-traffic API endpoints handling 50k+ RPM  
 ✅ Implemented CI/CD pipelines using Jenkins and GitHub Actions
