@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amit Kumar
-**Backend & Cloud Engineer** @ The Indian Express | Building Scalable Systems ☁️
+**Backend & Cloud Engineer** @ Republic World | Building Scalable Systems ☁️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amitkumarbatham)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ketan8899.41@gmail.com)
